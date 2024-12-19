@@ -2,11 +2,11 @@
 workspace-ansible-1
 
 [database]
-task2-app-3
+workspace-app-3
 
 [application]
-task2-app-1
-task2-app-2
+workspace-app-1
+workspace-app-2
 
 [webapp:children]
 database
